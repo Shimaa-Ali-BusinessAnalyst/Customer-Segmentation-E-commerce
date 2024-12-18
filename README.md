@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis
+# Customer Segmentation E-commerce
 
 This project applies K-Means clustering to segment customers based on their demographic and behavioral characteristics. These insights are used to guide targeted marketing strategies.
 
