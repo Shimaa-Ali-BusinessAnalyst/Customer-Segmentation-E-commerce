@@ -87,7 +87,7 @@ The dataset is publicly available on Kaggle.
 - **Violin Plot**: Spending Score Distribution by Cluster
   ![Spending Score Distribution by Cluster](visuals/Spending_Score_Distribution_by_Cluster.PNG)
 
-- **Violin Plot**: Spending Score Distribution by Cluster
+- **Violin Plot**: Annual Income Distribution by Cluster
   ![Annual Income Distribution by Cluster](visuals/Annual_Income_Distribution_by_Cluster.PNG)
 
 ## How to Use
