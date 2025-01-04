@@ -76,7 +76,7 @@ The dataset is publicly available on Kaggle.
 
 ## Key Visualizations
 - **Scatter Plot**: Annual Income vs Spending Score
-  ![Annual Income vs Spending Score]https://github.com/Shimaa-Ali-BusinessAnalyst/Customer-Segmentation-E-commerce/blob/main/Visualizations/Annual%20Income%20vs%20Spending%20Score.PNG(visuals/Annual_Income_vs_Spending_Score.PNG)
+  ![Annual Income vs Spending Score](https://github.com/Shimaa-Ali-BusinessAnalyst/Customer-Segmentation-E-commerce/blob/main/Visualizations/Annual%20Income%20vs%20Spending%20Score.PNG)
   
 - **Pie Chart**: Gender Distribution by Cluster
   ![Gender Distribution by Cluster](visuals/Gender_Distribution_by_Cluster.PNG)
