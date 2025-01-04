@@ -79,16 +79,16 @@ The dataset is publicly available on Kaggle.
   ![Annual Income vs Spending Score](https://github.com/Shimaa-Ali-BusinessAnalyst/Customer-Segmentation-E-commerce/blob/main/Visualizations/Annual%20Income%20vs%20Spending%20Score.PNG)
   
 - **Pie Chart**: Gender Distribution by Cluster
-  ![Gender Distribution by Cluster](visuals/Gender_Distribution_by_Cluster.PNG)
+  ![Gender Distribution by Cluster](https://github.com/Shimaa-Ali-BusinessAnalyst/Customer-Segmentation-E-commerce/blob/main/Visualizations/Gender%20Distribution%20by%20Cluster.PNG)
   
 - **Box Plot**: Age Distribution by Cluster
-  ![Age Distribution by Cluster](visuals/Age_Distribution_by_Cluster.PNG)
+  ![Age Distribution by Cluster](https://github.com/Shimaa-Ali-BusinessAnalyst/Customer-Segmentation-E-commerce/blob/main/Visualizations/Age%20Distribution%20by%20Cluster.PNG)
   
 - **Violin Plot**: Spending Score Distribution by Cluster
-  ![Spending Score Distribution by Cluster](visuals/Spending_Score_Distribution_by_Cluster.PNG)
+  ![Spending Score Distribution by Cluster](https://github.com/Shimaa-Ali-BusinessAnalyst/Customer-Segmentation-E-commerce/blob/main/Visualizations/Spending%20Score%20Distribution%20by%20Cluster.PNG)
 
 - **Violin Plot**: Annual Income Distribution by Cluster
-  ![Annual Income Distribution by Cluster](visuals/Annual_Income_Distribution_by_Cluster.PNG)
+  ![Annual Income Distribution by Cluster](https://github.com/Shimaa-Ali-BusinessAnalyst/Customer-Segmentation-E-commerce/blob/main/Visualizations/Annual%20Income%20Distribution%20by%20Cluster.PNG)
 
 ## How to Use
 1. Clone the repository:
